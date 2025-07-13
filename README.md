@@ -1,6 +1,6 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f9f9f9; padding: 30px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
 
-  <h1 style="color: #2c3e50;">👋 Hi there, I'm <span style="color: #2980b9;">Humam Fahad Ali</span></h1>
+  <h1 style="color: #2c3e50;">👋 Hi there, I'm <span style="color: #2980b9;">Humam Fahad</span></h1>
 
   <p style="font-size: 16px; line-height: 1.6; color: #333;">
     🎓 <strong>2025 graduate</strong> from the <strong>Computer Network Systems Department</strong> at the <strong>University of Anbar</strong>.
